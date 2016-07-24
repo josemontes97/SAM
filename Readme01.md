@@ -1,5 +1,6 @@
 * Avro
 * Harrier
 * Hornet
-* Getting and Cleaning Data
 * Exploratory Data
+* Getting and Cleaning Data
+
